@@ -2,7 +2,7 @@ Alomad Realestate Group Website
 
 #Description
 
-This is a website sample for the frontend course at the Flatiron School. 
+This is a website sample for the front end course at the Flatiron School. 
 
 #Contact 
 
